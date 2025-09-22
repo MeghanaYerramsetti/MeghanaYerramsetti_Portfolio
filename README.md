@@ -1,7 +1,5 @@
 # Meghana Yerramsetti - Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/6366f1/ffffff?text=Meghana+Yerramsetti+Portfolio)
-
 A modern, responsive portfolio website showcasing my skills, projects, and achievements as an AI & ML student and Python developer.
 
 ## 🌐 Live Demo
